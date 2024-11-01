@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YourMarketingGuy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YourMarketingGuy <contact@yourguy.marketing>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# YourMarketingGuy Localization Template
+#
+# jquery.timeago.js 49
+msgid "ago"
+msgstr "vor"
+
+# jquery.timeago.js 50
+msgid "from now"
+msgstr " "
+
+# jquery.timeago.js 51
+msgid "any moment now"
+msgstr "jeden Moment"
+
+# jquery.timeago.js 52
+msgid "less than a minute"
+msgstr "weniger als einer Minute"
+
+# jquery.timeago.js 53
+msgid "about a minute"
+msgstr "ungefähr einer Minute"
+
+# jquery.timeago.js 54
+msgid "%d minutes"
+msgstr "%d Minuten"
+
+# jquery.timeago.js 55
+msgid "about an hour"
+msgstr "ungefähr einer Stunde"
+
+# jquery.timeago.js 56
+msgid "about %d hours"
+msgstr "ungefähr %d Stunden"
+
+# jquery.timeago.js 57
+msgid "a day"
+msgstr "einem Tag"
+
+# jquery.timeago.js 58
+msgid "%d days"
+msgstr "%d Tagen"
+
+# jquery.timeago.js 59
+msgid "about a month"
+msgstr "ungefähr einem Monat"
+
+# jquery.timeago.js 60
+msgid "%d months"
+msgstr "%d Monaten"
+
+# jquery.timeago.js 61
+msgid "about a year"
+msgstr "ungefähr einem Jahr"
+
+# jquery.timeago.js 62
+msgid "%d years"
+msgstr "%d Jahren"
+
+# YourMarketingGuy Localization Template
+#
+# EulaView.php 48
+msgid "Welcome to the place where the magic happens"
+msgstr "Herzlich Willkommen! "
+
+# EulaView.php 46
+msgid "I want to receive personalized tips"
+msgstr "Ich will personalisierte Tipps!"
+
+# EulaView.php 54
+msgid ""
+"All we need to get started is your permission to access your WordPress "
+"data.  This helps us to deliver personalized tips that will only make sense "
+"for your page."
+msgstr ""
+"Alles was wir brauchen um loszulegen, ist deine Berechtigung auf deine "
+"WordPress-Daten zuzugreifen. Dies hilft uns, personalisierte Tipps zu "
+"liefern, die nur Sinn für deine Seite ergeben."
+
+# EulaView.php 57
+msgid "And agree to the "
+msgstr "Und stimme folgendem zu:"
+
+# EulaView.php 57
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+# EulaView.php 57
+msgid "Terms Of Service"
+msgstr "Nutzungsbedingungen"
+
+# YourMarketingGuy Localization Template
+#
+# SettingsView.php 43
+msgid "Every day, this box has a new tip for you."
+msgstr "Jeden Tag hat diese Box einen neuen Tipp für dich."
+
+# SettingsView.php 44
+msgid ""
+"The counter tells you when a new tip will be ready. Meanwhile work on the "
+"current one to improve your website."
+msgstr ""
+"Die Zeituhr sagt dir, wann der nächste Tipp kommt. Arbeite solange daran den "
+"jetzigen zu lösen."
+
+# SettingsView.php 45
+msgid ""
+"Click here everytime you login to WordPress to check out the latest tip."
+msgstr ""
+"Einfach nach jedem Login hier klicken und nachschauen ob der nächste Tipp "
+"schon da ist."
+
+# SettingsView.php 46
+msgid "Got it. What's next?"
+msgstr "Weiter"
+
+# SettingsView.php 47
+msgid "End tour"
+msgstr "Tour beenden"
+
+# YourMarketingGuy Localization Template
+#
+# SettingsView.php 100
+msgid "Great you are back! Here comes your tip of the day!"
+msgstr "Schön das du wieder da bist! Hier ist dein Tipp des Tages!"
+
+# SettingsView.php 105
+# FTUView1.php
+msgid "Your personalized tip of the day"
+msgstr "Dein persönlicher Tipp des Tages"
+
+# SettingsView.php 110
+# FTUView1.pp 123
+msgid "Next tip available in"
+msgstr "Nächster Tipp in"
+
+# SettingsView.php 111
+# FTUView1.php 124
+msgid "You are using our Essential Plan (one tip per day) - Uprade now"
+msgstr "Du nutzt unser Basis-Plugin (Ein Tipp/Tag) - Jetzt upgraden"
+
+# SettingsView.php 119
+# FTUView1.php 132
+msgid "Find out how we work on your success"
+msgstr "Finde heraus, wie wir an deinem Erfolg arbeiten"
+
+# SettingsView.php 111
+# FTUView1.php 135
+msgid "Checking public data"
+msgstr "Überprüfung öffentlicher Daten"
+
+# FTUView1.php 110
+msgid "YourMarketingGuy helps you being successful online"
+msgstr "Dieses Plugin hilft dir erfolgreich im Internet zu sein"
+
+# SettingsView.php 113
+msgid ""
+"He does this by providing useful and simple tips that will bring you closer "
+"to success, step by step."
+msgstr ""
+"Mit Hilfe von einfachen SEO-, Social Media & Content Marketing-Tipps bringt "
+"er dich dem Erfolg Stück für Stück näher."
+
+# SettingsView.php 124
+# FTUView1.php 137
+msgid ""
+"YourMarketingGuy takes a look at all public data of your WordPress hosted "
+"website or blog and compares it to our “ideal scenario”."
+msgstr ""
+"YourMarketingGuy schaut sich an wie deine Website von außen aussieht und "
+"vergleicht es mit unserem \"Idealszenario\"."
+
+# SettingsView.php 127
+# FTUView1.php 140
+msgid "Providing tips"
+msgstr "Neue Tipps"
+
+# SettingsView.php 128
+# FTUView1.php 141
+msgid ""
+"Once YourMarketingGuy analyzed your website or blog, it get’s back to you "
+"with easy to implement and understandable tips on how to make it more "
+"successful step by step."
+msgstr ""
+"Hat der YourMarketingGuy erst einmal deine Website bzw. deinen Blog "
+"analysiert, versorgt er dich mit verständlichen Tipps. Diese führen dich "
+"Schritt für Schritt zum Erfolg."
+
+# SettingsView.php 131
+# FTUView1.php 144
+msgid "Rocking website"
+msgstr "Rocking Website"
+
+# SettingsView.php 132
+# FTUView1.php 145
+msgid ""
+"We believe that the internet should be a success-engine for everyone, not "
+"just digital natives. YourMarketingGuy works together with you to make this "
+"happen."
+msgstr ""
+"Wir glauben, dass das Internet ein Erfolgskonzept für jeden hat. "
+"YourMarketingGuy arbeitet direkt mit dir zusammen um deines zu verwirklichen."
+
+# SettingsView.php 134
+# FTUView1.php 147
+msgid "Start Tour"
+msgstr "Einführungstour"
+
+# SettingsView.php 134
+# FTUView1.php 147
+msgid "Support"
+msgstr "Support"
+
+# SettingsView.php 134
+# FTUView1.php 147
+msgid "Facebook"
+msgstr "Facebook"
+
+# SettingsView.php 134
+# FTUView1.php 147
+msgid "Twitter"
+msgstr "Twitter"
+
+# DashboardWidget.php 29
+msgid "YourMarketingGuy - your personalized tip of the day"
+msgstr "YourMarketingGuy - Dein persönlicher Tipp des Tages"
+
+# StoryView.php 40
+msgid "First"
+msgstr "Erster"
+
+# StoryView.php 40
+msgid "Last"
+msgstr "Letzter"
+
+# StoryView.php 40
+msgid "Back"
+msgstr "Zurück"
+
+# StoryView.php 40
+msgid "Next"
+msgstr "Weiter"
+
+# StoryView.php 49+50
+msgid "Continue"
+msgstr "Fortsetzen"
+
+# StoryView.php 54+55
+msgid "Start"
+msgstr "Start"
+
+# StoryView.php 69
+msgid "Free"
+msgstr "Geschenkt"
+
+# StoryView.php 69
+msgid "Purchase"
+msgstr "Jetzt Kaufen"
+
+# StoryView.php 94
+msgid "Your personalized tip"
+msgstr "Dein personalisierter Tipp"
+
+# StoryView.php 87
+msgid "Please select a post first"
+msgstr "Bitte wähle zuerst einen Post aus"
+
+# StoryView.php 38
+msgid "Please start over with a story"
+msgstr "Bitte starte zuerst mit einer Story"
+
+# StoryView.php 75
+msgid "Start story"
+msgstr "Story starten"
+
+# StoryView.php 40
+#~ msgid "Previous"
+#~ msgstr "Zurück"
+
+# EulaView.php 54
+#~ msgid ""
+#~ "All we need to get started is your permission to access your WordPress "
+#~ "data.  This helps us to deliver personalized tips that will only make "
+#~ "sense for your page. "
+#~ msgstr ""
+#~ "Alles was wir brauchen ist deine Zustimmung um auf deine Wordpress Daten "
+#~ "zuzugreifen. Damit können wir dir dann personalisierte Tipps für dich "
+#~ "erstellen, die auch nur bei deiner Seite funktionieren."

@@ -1,0 +1,236 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YourMarketingGuy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YourMarketingGuy <contact@yourguy.marketing>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+
+# YourMarketingGuy Localization Template
+#
+
+
+# jquery.timeago.js 49
+msgid "ago"
+msgstr ""
+
+# jquery.timeago.js 50
+msgid "from now"
+msgstr ""
+
+# jquery.timeago.js 51
+msgid "any moment now"
+msgstr ""
+
+# jquery.timeago.js 52
+msgid "less than a minute"
+msgstr ""
+
+# jquery.timeago.js 53
+msgid "about a minute"
+msgstr ""
+
+# jquery.timeago.js 54
+msgid "%d minutes"
+msgstr ""
+
+# jquery.timeago.js 55
+msgid "about an hour"
+msgstr ""
+
+# jquery.timeago.js 56
+msgid "about %d hours"
+msgstr ""
+
+# jquery.timeago.js 57
+msgid "a day"
+msgstr ""
+
+# jquery.timeago.js 58
+msgid "%d days"
+msgstr ""
+
+# jquery.timeago.js 59
+msgid "about a month"
+msgstr ""
+
+# jquery.timeago.js 60
+msgid "%d months"
+msgstr ""
+
+# jquery.timeago.js 61
+msgid "about a year"
+msgstr ""
+
+# jquery.timeago.js 62
+msgid "%d years"
+msgstr ""
+
+# EulaView.php 48
+msgid "Welcome to the place where the magic happens"
+msgstr ""
+
+# EulaView.php 46
+msgid "I want to receive personalized tips"
+msgstr ""
+
+# EulaView.php 54
+msgid "All we need to get started is your permission to access your WordPress data.  This helps us to deliver personalized tips that will only make sense for your page."
+msgstr ""
+
+# EulaView.php 57
+msgid "And agree to the "
+msgstr ""
+
+# EulaView.php 57
+msgid "Privacy Policy"
+msgstr ""
+
+# EulaView.php 57
+msgid "Terms Of Service"
+msgstr ""
+
+# SettingsView.php 43
+msgid "Every day, this box has a new tip for you."
+msgstr ""
+
+# SettingsView.php 44
+msgid "The counter tells you when a new tip will be ready. Meanwhile work on the current one to improve your website."
+msgstr ""
+
+# SettingsView.php 45
+msgid "Click here everytime you login to WordPress to check out the latest tip."
+msgstr ""
+
+# SettingsView.php 46
+msgid "Got it. What's next?"
+msgstr ""
+
+# SettingsView.php 47
+msgid "End tour"
+msgstr ""
+
+# SettingsView.php 100
+msgid "Great you are back! Here comes your tip of the day!"
+msgstr ""
+
+# SettingsView.php 105
+msgid "Your personalized tip of the day"
+msgstr ""
+
+# SettingsView.php 110
+msgid "Next tip available in"
+msgstr ""
+
+# SettingsView.php 111
+msgid "You are using our Essential Plan (one tip per day) - Uprade now"
+msgstr ""
+
+# SettingsView.php 119
+msgid "Find out how we work on your success"
+msgstr ""
+
+# SettingsView.php 111
+msgid "Checking public data"
+msgstr ""
+
+# FTUView1.php 110
+msgid "YourMarketingGuy helps you being successful online"
+msgstr ""
+
+# FTUView1.php 113
+msgid "He does this by providing useful and simple tips that will bring you closer to success, step by step."
+msgstr ""
+
+# SettingsView.php 124
+msgid "YourMarketingGuy takes a look at all public data of your WordPress hosted website or blog and compares it to our “ideal scenario”."
+msgstr ""
+
+# SettingsView.php 127
+msgid "Providing tips"
+msgstr ""
+
+# SettingsView.php 128
+msgid "Once YourMarketingGuy analyzed your website or blog, it get’s back to you with easy to implement and understandable tips on how to make it more successful step by step."
+msgstr ""
+
+# SettingsView.php 131
+msgid "Rocking website"
+msgstr ""
+
+# SettingsView.php 132
+msgid "We believe that the internet should be a success-engine for everyone, not just digital natives. YourMarketingGuy works together with you to make this happen."
+msgstr ""
+
+# SettingsView.php 134
+msgid "Start Tour"
+msgstr ""
+
+# SettingsView.php 134
+msgid "Support"
+msgstr ""
+
+# SettingsView.php 134
+msgid "Facebook"
+msgstr ""
+
+# SettingsView.php 134
+msgid "Twitter"
+msgstr ""
+
+# DashboardWidget.php 29
+msgid "YourMarketingGuy - your personalized tip of the day"
+msgstr ""
+
+# StoryView.php 40
+msgid "First"
+msgstr ""
+
+# StoryView.php 40
+msgid "Last"
+msgstr ""
+
+# StoryView.php 40
+msgid "Back"
+msgstr ""
+
+# StoryView.php 40
+msgid "Next"
+msgstr ""
+
+# StoryView.php 49+50
+msgid "Continue"
+msgstr ""
+
+# StoryView.php 54+55
+msgid "Start"
+msgstr ""
+
+# StoryView.php 69
+msgid "Free"
+msgstr ""
+
+# StoryView.php 69
+msgid "Purchase"
+msgstr ""
+
+# StoryView.php 94
+msgid "Your personalized tip"
+msgstr ""
+
+# StoryView.php 87
+msgid "Please select a post first"
+msgstr ""
+
+# StoryView.php 38
+msgid "Please start over with a story"
+msgstr "" 
+
+# StoryView.php 75
+msgid "Start story"
+msgstr ""
